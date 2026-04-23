@@ -13,7 +13,7 @@ public class OrderApplication {
 
         SpringApplication.run(OrderApplication.class, args);
 
-        System.out.println("Hello World!");
+//        System.out.println("Hello World!");
     }
 
 }
